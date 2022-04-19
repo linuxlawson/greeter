@@ -20,12 +20,14 @@ To run, open terminal and cd into bin, then again into bash folder
 3. once inside bash folder, run program by typing: ./greeter.sh  
   
 OR (better)    
-Create an alias in .bashrc folder with path that points to (and runs) program  
+Create an alias in .bashrc folder with path that points to (and runs) program.    
 alias greet="~/bin/bash/greeter.sh"  
 
-Then you can just type your alias (greet) after opening terminal.
+Then you can just type your alias (greet) after opening terminal.  
 
+A better alias for this might be 'hi'  
+alias hi="~/bin/bash/greeter.sh"  
 
 Note: This simple bash script can be changed, made better, and improved on in many ways.  
 I was just playing around, made out of boredom.  
-Have a great day!
+Have a great day!  
