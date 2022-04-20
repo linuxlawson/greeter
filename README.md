@@ -5,9 +5,9 @@ Great for people new to linux and/or bash scripts.
 Script will expect (and wait for) responses from You, your responses can be just about anything. 
 
 How to use:  
-Copy code  
-Paste code into a text editor and save as 'greeter.sh'.    
-This should be placed your bin/bash folder.  
+1. Copy code  
+2. Paste code into a text editor and save as: greeter.sh    
+*This should be placed your bin/bash folder.  
 
 If you are new to linux and dont have bin or bash folders, create them like below..  
 1. Open Home folder and create 'bin' folder.  
@@ -28,6 +28,11 @@ Then you can just type your alias (greet) after opening terminal.
 A better alias for this might be 'hi'  
 alias hi="~/bin/bash/greeter.sh"  
 
+Permission Denied message?   
+In Terminal (and in scripts directory) just type: chmod 755 greeter.sh  
+  
+    
+  
 Note: This simple bash script can be changed, made better, and improved on in many ways.  
 I was just playing around, made out of boredom.  
 Have a great day!  
