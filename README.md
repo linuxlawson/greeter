@@ -4,7 +4,7 @@ Great for people new to linux and/or bash scripts.
 
 Script will expect (and wait for) responses from You, your responses can be just about anything. 
 
-**How to use:**
+How to use:
 1. Copy code  
 2. Paste code into a text editor and save as: greeter.sh    
 *This should be placed your bin/bash folder.  
@@ -14,7 +14,7 @@ If you are new to linux and dont have bin or bash folders, create them like belo
 2. Open bin folder and create 'bash' folder (inside of bin).  
 3. Place greeter.sh inside bash folder.  
 
-**To run,** open terminal and cd into bin, then again into bash folder
+To run, open terminal and cd into bin, then again into bash folder
 1. cd bin  
 2. cd bash  
 3. once inside bash folder, run program by typing: ./greeter.sh  
