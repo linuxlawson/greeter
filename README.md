@@ -1,5 +1,6 @@
-## Greeter Program
-A simple bash script which can be run from linux terminal.  
+## Greeter Program  
+A greeting from your terminal    
+Simple bash script which can be run from linux terminal.  
 Great for people new to linux and/or bash scripts.
 
 Script will expect (and wait for) responses from You, your responses can be just about anything. 
