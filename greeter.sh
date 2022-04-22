@@ -25,7 +25,7 @@ sleep 1
 echo -e "\n${YELLOW}Excellent.${NOCOLOR}"
 
 sleep 1
-echo -e "\n${YELLOW}Would you like to go fishing?${NOCOLOR}\n"
+echo -e "\n${YELLOW}How about a game of chess?${NOCOLOR}\n"
 
 read -r
 
