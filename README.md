@@ -8,7 +8,7 @@ Script will expect (and wait for) responses from You, your responses can be just
 How to use:
 1. Copy code  
 2. Paste code into a text editor and save as: greeter.sh    
-*This should be placed your bin/bash folder.  
+*This should be placed in your bin/bash folder.  
 
 If you are new to linux and dont have bin or bash folders, create them like below..
 1. Open Home folder and create 'bin' folder.  
@@ -31,8 +31,7 @@ alias hi="~/bin/bash/greeter.sh"
 
 **Permission Denied** message?   
 In Terminal (and in scripts directory) just type: chmod 755 greeter.sh  
-  
-    
+<br>
   
 Note: This simple bash script can be changed, made better, and improved on in many ways.  
 I was just playing around, made out of boredom.  
