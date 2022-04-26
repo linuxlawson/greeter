@@ -5,6 +5,10 @@ Great for people new to linux and/or bash scripts.
 
 Script will expect (and wait for) responses from You, your responses can be just about anything. 
 
+Experience:  Beginner  
+Difficulty:  Easy  
+Time wasted: 5 minutes or less  
+
 How to use:
 1. Copy code  
 2. Paste code into a text editor and save as: greeter.sh    
