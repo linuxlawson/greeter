@@ -11,8 +11,8 @@ Time wasted: 5 minutes or less
 
 How to use:
 1. Copy code  
-2. Paste code into a text editor and save as: greeter.sh    
-*This should be placed in your bin/bash folder.  
+2. Paste code into a text editor and save as: greeter.sh  
+3. Place greeter.sh in your bin/bash folder.    
 
 If you are new to linux and dont have bin or bash folders, create them like below..
 1. Open Home folder and create 'bin' folder.  
