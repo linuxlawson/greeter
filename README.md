@@ -25,7 +25,7 @@ To run, open terminal and cd into bin, then again into bash folder
 3. once inside bash folder, run program by typing: ./greeter.sh  
   
 OR (better)    
-Create an alias in .bashrc folder with path that points to (and runs) program.    
+Create an alias in .bashrc with path that points to (and runs) program.    
 alias greet="~/bin/bash/greeter.sh"  
 
 Then you can just type your alias (greet) after opening terminal.  
