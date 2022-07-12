@@ -37,6 +37,6 @@ alias hi="~/bin/bash/greeter.sh"
 In Terminal (and in scripts directory) just type: chmod 755 greeter.sh  
 <br>
   
-Note: This simple bash script can be changed, made better, and improved on in many ways.  
+**Note:** This simple bash script can be changed, made better, and improved on in many ways.  
 I was just playing around, made out of boredom.  
 Have a great day!  
