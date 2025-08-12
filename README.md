@@ -34,7 +34,7 @@ A better alias for this might be 'hi'
 alias hi="~/bin/bash/greeter.sh"  
 
 **Permission Denied** message?   
-In Terminal (and in scripts directory) just type: chmod 755 greeter.sh  
+In Terminal (and in scripts directory) just type: chmod +x greeter.sh  
 <br>
   
 **Note:** This simple bash script can be changed, made better, and improved on in many ways.  
